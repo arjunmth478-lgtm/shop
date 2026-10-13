@@ -1,5 +1,5 @@
 name = "shopnix-api"
-main = "src/worker.js"
+main = "worker.js"
 compatibility_date = "2026-10-01"
 
 [vars]
@@ -10,7 +10,7 @@ TELEGRAM_USERNAME = ""
 [[d1_databases]]
 binding = "DB"
 database_name = "shopnix-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "b962c82e-6ff7-406f-84e7-7052f3ed67a9"
 migrations_dir = "migrations"
 
 # Optional image storage:
