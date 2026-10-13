@@ -5,7 +5,6 @@ compatibility_date = "2026-10-01"
 [vars]
 STORE_NAME = "Shopnix"
 WHATSAPP_NUMBER = "+380 67 623 5211"
-WHATSAPP_USERNAME = "@evuzx"
 TELEGRAM_USERNAME = "@Shop_nix"
 
 [[d1_databases]]
